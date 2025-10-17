@@ -1,0 +1,7 @@
+#include "VectorStore.h"
+
+int main() {
+    // Student can use this main function to do some basic testing 
+    //aaaa sssss
+    return 0;
+}
